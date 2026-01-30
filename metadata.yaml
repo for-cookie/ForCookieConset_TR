@@ -1,7 +1,8 @@
 homepage: "https://www.forcookie.com"
 documentation: "https://www.forcookie.com/forcookie-tagmanager-nasil-kurulur/"
 versions:
-  - sha: 569ef6f
+  - sha: f2315e14ed4ecc3663b267047bb856cec7bf6f94
     changeNotes: İlk Versiyon.
+
 
 
