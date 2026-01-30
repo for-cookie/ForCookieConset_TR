@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "ForCookie (TR)",
+  "categories": ["SESSION_RECORDING", "TAG_MANAGEMENT", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "ForCookieTeam",
@@ -534,15 +535,6 @@ ___WEB_PERMISSIONS___
     "isRequired": true
   }
 ]
-
-___INFO___
-
-{
-  "displayName": "ForCookie",
-  "categories": ["SESSION_RECORDING"],
-  // additional template properties, etc...
-}
-
 
 ___TESTS___
 
